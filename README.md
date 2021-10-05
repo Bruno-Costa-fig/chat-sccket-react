@@ -1,4 +1,4 @@
-Olá, Dev's!
+## Olá, Dev's!
 
 Este porjeto foi criado durante a 12ª imersão ao NodeJs, React e React Native da Celke. Nele pude implementar um char criado com React, Socket.io e Styled Components.
 
